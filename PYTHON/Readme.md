@@ -1,3 +1,5 @@
+### LIST OF PYTHON RESOURCES
+* https://pythonrepo.com/
 
 ## PLOTTING LIBRARIES
 
