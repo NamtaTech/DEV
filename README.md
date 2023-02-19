@@ -5,9 +5,8 @@
 # FREE CERTIFS
 * https://www.freecodecamp.org/news/free-certificates/
 
-# CHALLENGES
-* https://www.CodeWars.com
-* https://www.hackerrank.com/
+# CODING CHALLENGES
+* https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/
 
 
 
