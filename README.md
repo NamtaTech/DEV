@@ -1,6 +1,7 @@
 # DEV CURRICULUM
 * freecodecamp.org
 * Pluralsight.com
+* https://spring.academy
 
 # FREE CERTIFS
 * https://www.freecodecamp.org/news/free-certificates/
