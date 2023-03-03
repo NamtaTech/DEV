@@ -2,6 +2,7 @@
 * freecodecamp.org
 * Pluralsight.com
 * https://spring.academy
+* Coursera.org
 
 # FREE CERTIFS
 * https://www.freecodecamp.org/news/free-certificates/
