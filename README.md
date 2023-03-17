@@ -15,3 +15,6 @@
 # IDEAS
 * https://github.com/andysterks/three-levels-of-projects
 
+# FREE COURSES
+* https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/
+
