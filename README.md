@@ -53,7 +53,9 @@ https://www.youtube.com/watch?v=B7l5qcHAHro&list=WL&index=7
 https://youtube.com/playlist?list=PLvzuUVysUFOsrxL7UxmMrVqS8X2X0b8jd
 
 
-
+* PROJECTS IDEAS 
+*******************************
+https://github.com/andysterks/three-levels-of-projects
 
 
 
